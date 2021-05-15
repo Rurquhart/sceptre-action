@@ -1,5 +1,5 @@
 ---
-name: "sceptre-gitHub-action"
+name: "sceptre-github-action"
 description: "Runs sceptre commands via GitHub Actions"
 branding:
   icon: 'activity'
